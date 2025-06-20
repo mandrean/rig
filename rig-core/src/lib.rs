@@ -97,6 +97,7 @@ pub mod loaders;
 pub mod one_or_many;
 pub mod pipeline;
 pub mod prelude;
+pub mod prompt_repository;
 pub mod providers;
 pub mod streaming;
 pub mod tool;
